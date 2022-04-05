@@ -26,10 +26,13 @@ Here are some ideas to get you started:
 
 ### What I use when I work:
 #### Languages:
-- JS
-- java spring consul vault docker vue macos
-
-
+- JavaScript
+- NodeJS
+- Java
+#### Frameforks:
+- React
+- Express.js
+- MobX
 
 ### TOP 3 things I can do cool
 - React web-application using MERN stack
