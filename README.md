@@ -18,24 +18,18 @@ Here are some ideas to get you started:
 -->
 
 - 🔭 I’m currently working on WEB APPS
-- 🌱 I’m currently learning WEB3 Technologyes!
-- 👯 I’m looking to collaborate on .
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
+- 🌱 I’m currently learning SMART-CONTRACTS
+- 👯 I’m looking to collaborate on Blockchain project
+- 🇺🇦 I’m from Ukraine
 - 📫 How to reach me: ieroarina@gmail.com \ [LinkedIn](www.linkedin.com/in/kzncvaa/)
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 😄 Bachelor in Computer Science
+
+### What I use when I work:
+#### Languages:
+- JS
+- java spring consul vault docker vue macos
 
 
-### My Skills
-- React
-- MobX
-- NodeJS
-- JavaScript
-- HTML / CSS / SCSS
-- MongoDB
-- MySQL
-- Using the MVC pattern • Git
 
 ### TOP 3 things I can do cool
 - React web-application using MERN stack
@@ -48,9 +42,3 @@ responsive layout
 - Databases and Query Languages (SQL, MySql, MongoDB, etc.)
 - State management using MobX and Redux
 - Web3 Technologyes
-
-### Contact
-Ukraine, Kyiv 
-+380974303828 
-ieroarina@gmail.com 
-www.linkedin.com/in/kzncvaa/
