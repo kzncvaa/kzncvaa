@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 
-### Skills
+### My Skills
 - React
 - MobX
 - NodeJS
