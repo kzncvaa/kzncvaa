@@ -17,28 +17,26 @@ Here are some ideas to get you started:
 
 
 ### Skills
-• React
-• MobX
-• NodeJS
-• JavaScript
-• HTML / CSS / SCSS
-• MongoDB
-• MySQL
-• Using the MVC pattern • Git
-
-
+- React
+- MobX
+- NodeJS
+- JavaScript
+- HTML / CSS / SCSS
+- MongoDB
+- MySQL
+- Using the MVC pattern • Git
 
 ### TOP 3 things I can do cool
-• React web-application using MERN stack
-• HTML template, using preprocessors CSS
-• Cross-browser and cross-platform development, responsive and
+- React web-application using MERN stack
+- HTML template, using preprocessors CSS
+- Cross-browser and cross-platform development, responsive and
 responsive layout
 
 ### TOP 3 things I can do normally
-• Server side using NodeJS, HTML5 API
-• Databases and Query Languages (SQL, MySql, MongoDB, etc.)
-• State management using MobX and Redux
-• Web3 Technologyes
+- Server side using NodeJS, HTML5 API
+- Databases and Query Languages (SQL, MySql, MongoDB, etc.)
+- State management using MobX and Redux
+- Web3 Technologyes
 
 ### Contact
 Ukraine, Kyiv 
